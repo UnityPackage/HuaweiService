@@ -1,0 +1,8 @@
+{
+  "name": "com.unitypackage.huawei-service",
+  "displayName": "HuaweiService",
+  "description": "HuaweiService",
+  "unity": "2020.1",
+  "dependencies": {},
+  "version": "1.0.0"
+}
